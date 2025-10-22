@@ -1,0 +1,16 @@
+[
+	{
+		"name": "CORTIS",
+		"name_kor": "코르티스",
+		"preview1": "https://i.pinimg.com/474x/27/b3/ca/27b3ca855cb8fff3263310b80e0cb6df.jpg",
+		"preview2": "https://i.pinimg.com/474x/40/dd/a0/40dda0d340e8948f03fe420bee88df07.jpg",
+		"preview3": "https://i.pinimg.com/474x/66/e7/8b/66e78b22958fb369ad082bb02e47e8e0.jpg"
+	},
+	{
+		"name": "icon",
+		"name_kor": "아이콘",
+		"preview1": "https://i.pinimg.com/474x/e1/27/d8/e127d898308f54650965b75bb0345551.jpg",
+		"preview2": "https://i.pinimg.com/474x/ba/7f/3b/ba7f3bee0787820e531acf73914e1a91.jpg",
+		"preview3": "https://i.pinimg.com/474x/db/68/0b/db680bffc6a3ce6715d41deeb29cdb79.jpg"
+	}
+]
