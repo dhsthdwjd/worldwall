@@ -1236,7 +1236,8 @@
     "image": "https://play-lh.googleusercontent.com/5OJM2ExlVgVKvIbGEtiVR_sI1fWZ-mdCcjfRSr52Bs1Ip-NcLesgH3fIqlPLhb1rgB4=w240-h480"
   },
   {
-    "eng": "책 속 한줄 - 명언,좋은글,자기개발,위로,사랑,인생",
+    "eng": "책 속 한줄",
+    "kor": "명언,좋은글,자기개발,위로,사랑,인생",
     "category": "Etc",
     "package_name": "com.offsong.onelinebooks",
     "image": "https://play-lh.googleusercontent.com/okhcoQLj1YAtK0gq7R8ztgazBsaq_aoUGoVyFqoXLnYa9ibEX_p5dZALIZtNtmdPVLrcDrtp5msJObD-lyDn5g=w240-h480"
@@ -1319,13 +1320,15 @@
     "image": "https://play-lh.googleusercontent.com/dlsBPoz2LfxyGH-bQa4GYamcQLkT7nRsd1nOHqYGtIf7aGa8PKfilIYDdFYk3ScEyMyjTY9zVdOWadZgm5Slxg=w480-h960-rw"
   },
     {
-    "eng": "임대픽 - LH 임대·분양 맞춤 공고 알림",
+    "eng": "임대픽",
+    "kor": "LH 임대·분양 맞춤 공고 알림",
     "category": "Productivity",
     "package_name": "com.offsong.lhnotice",
     "image": "https://play-lh.googleusercontent.com/-WnJa4XrOkvV80bHI-upTUyml0_b2qN9Z7DQK7ZRSmMMvdeGePxmDRjvymKuT-bFAI685YGL-9_9-t6gKMMG=w480-h960-rw"
   },
      {
-    "eng": "너랑나랑 - 이름궁합 (애정도 테스트",
+    "eng": "너랑나랑",
+    "kor": "이름궁합 (애정도 테스트)",
     "category": "Productivity",
     "package_name": "com.offsong.greenwallpaper",
     "image": "https://play-lh.googleusercontent.com/2xPwxe4IPkDXK_1r8AsDRCCBtq9rCpX2QGs9cBOHOgLIFICucJI0af6B29D8qCpvS4X1FIl2TEGZK99IaoyMj4s=w480-h960-rw"
