@@ -1074,7 +1074,7 @@
 {
 	"eng": "세일러문",
 	"name": "Anime sailor Wallpaper",
-	"category": "Etc",
+	"category": "Anime",
 	"rating": 5.0,
 	"package_name": "com.offsong.sailor_wallpaper",
 	"image": ""
@@ -1082,7 +1082,7 @@
 {
 	"eng": "에반게리온",
 	"name": "Anime evangelion Wallpaper",
-	"category": "Etc",
+	"category": "Anime",
 	"rating": 5.0,
 	"package_name": "com.offsong.in_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/0b_RgwrLRPA2SP_K5uSSYpZuzmLjM9i7P7RdPrwrsgTGbe94D92lYAP89vb3vvD8yDE=w480-h960-rw"
@@ -1090,7 +1090,7 @@
 {
 	"eng": "주술회전",
 	"name": "Anime jujutsu Wallpaper",
-	"category": "Etc",
+	"category": "Anime",
 	"rating": 5.0,
 	"package_name": "com.offsong.exoquote",
 	"image": ""
@@ -1098,7 +1098,7 @@
 {
 	"eng": "카드캡터체리",
 	"name": "Anime sakura Wallpaper",
-	"category": "Etc",
+	"category": "Anime",
 	"rating": 5.0,
 	"package_name": "com.offsong.cardcaptor_wallpaper",
 	"image": ""
@@ -1106,7 +1106,7 @@
 {
 	"eng": "불꽃소방대",
 	"name": "Anime fireforce Wallpaper",
-	"category": "Etc",
+	"category": "Anime",
 	"rating": 5.0,
 	"package_name": "com.offsong.ab6ix_wallpaper",
 	"image": ""
@@ -1114,7 +1114,7 @@
 {
 	"eng": "귀멸의칼날",
 	"name": "demonslayer Wallpaper",
-	"category": "Etc",
+	"category": "Anime",
 	"rating": 5.0,
 	"package_name": "com.offsong.demonslayer",
 	"image": ""
@@ -1306,7 +1306,7 @@
 {
 	"eng": "쓰리디입체",
 	"name": "Aesthetic 3d Wallpaper",
-	"category": "Idol",
+	"category": "Etc",
 	"rating": 5.0,
 	"package_name": "com.offsong.SUGAQUOTE",
 	"image": ""
@@ -1314,7 +1314,7 @@
 {
 	"eng": "귀엽고사랑스러운",
 	"name": "Aesthetic cute Wallpaper",
-	"category": "Idol",
+	"category": "Etc",
 	"rating": 5.0,
 	"package_name": "com.offsong.kawaii_wallpaper",
 	"image": ""
@@ -1322,7 +1322,7 @@
 {
 	"eng": "스테판커리",
 	"name": "Sports Stars curry Wallpaper",
-	"category": "Idol",
+	"category": "Etc",
 	"rating": 5.0,
 	"package_name": "com.offsong.allcat_wallpaper",
 	"image": ""
@@ -1362,7 +1362,7 @@
 {
 	"eng": "테디베어",
 	"name": "Aesthetic teddybear Wallpaper",
-	"category": "Idol",
+	"category": "Etc",
 	"rating": 5.0,
 	"package_name": "com.offsong.hoyeon_wallpaper",
 	"image": ""
