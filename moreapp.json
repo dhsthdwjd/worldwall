@@ -3,7 +3,6 @@
 	"eng": "키키",
 	"name": "KiiiKiii Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.kayoung_wallpaper",
 	"image": ""
 },
@@ -11,7 +10,6 @@
 	"eng": "키스오브라이프",
 	"name": "KISS OF LIFE Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.aesthetic_quote",
 	"image": ""
 },
@@ -19,7 +17,6 @@
 	"eng": "이즈나",
 	"name": "izna Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.luvcon",
 	"image": ""
 },
@@ -27,7 +24,6 @@
 	"eng": "미야오",
 	"name": "MEOVV Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.mind_test",
 	"image": ""
 },
@@ -35,7 +31,6 @@
 	"eng": "아이유",
 	"name": "IU Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.iuquote",
 	"image": ""
 },
@@ -43,7 +38,6 @@
 	"eng": "베이비몬스터",
 	"name": "BABYMONSTER Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.btsquotes",
 	"image": ""
 },
@@ -51,7 +45,6 @@
 	"eng": "소녀시대",
 	"name": "SNSD Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.snsd_wallpaper",
 	"image": ""
 },
@@ -75,7 +68,6 @@
 	"eng": "츄",
 	"name": "loona chuu Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.chuu_wallpaper",
 	"image": ""
 },
@@ -83,7 +75,6 @@
 	"eng": "블랙핑크",
 	"name": "BLACKPINK Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.daniel_wallpaper",
 	"image": ""
 },
@@ -91,7 +82,6 @@
 	"eng": "블랙핑크 제니",
 	"name": "BLACKPINK JENNIE Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.JINQUOTE",
 	"image": "https://play-lh.googleusercontent.com/YCDtcA8u0dyrzR7eRS5Wu_Cq3OYfWiIHieiEpNgn3Ubw3BkZhfz73sS9x6nNPPJF0r0=w480-h960-rw"
 },
@@ -99,7 +89,6 @@
 	"eng": "블랙핑크 리사",
 	"name": "BLACKPINK LISA Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.kiyong_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/XLXDptfyNl522C9R-Js7vMpQZYF_c26cxj7L-QEXv8mf2FUyUMYTP4sejl18HtlwY72i=w480-h960-rw"
 },
@@ -107,7 +96,6 @@
 	"eng": "블랙핑크 로제",
 	"name": "BLACKPINK ROSE Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.randomquotes",
 	"image": "https://play-lh.googleusercontent.com/ajRp5l9mowX-mUI2sIiMhs2-0lOS_TrXycYyXy9q0tSNAK5YX5_xcIPwbE-89Jnd-pY=w480-h960-rw"
 },
@@ -115,7 +103,6 @@
 	"eng": "블랙핑크 지수",
 	"name": "BLACKPINK JISOO Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.xdinary_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/2HmC5w8QHlFC7O6P5hcvR5BGZogPn6n3ZAT1v1GLv1C5_AziUIdFpreuf8Phw2uD83Q=w480-h960-rw"
 },
@@ -123,7 +110,6 @@
 	"eng": "하츠투하츠",
 	"name": "Hearts2Hearts Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.weeekly_wallpaper",
 	"image": ""
 },
@@ -131,7 +117,6 @@
 	"eng": "하츠투하츠 이안",
 	"name": "Hearts2Hearts IAN Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.themetodo6",
 	"image": ""
 },
@@ -139,7 +124,6 @@
 	"eng": "아일릿",
 	"name": "ILLIT Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.illit_wallpaper",
 	"image": ""
 },
@@ -147,7 +131,6 @@
 	"eng": "아일릿 원희",
 	"name": "ILLIT WONHEE Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.monsta_wallpaper",
 	"image": ""
 },
@@ -155,7 +138,6 @@
 	"eng": "아일릿 모카",
 	"name": "ILLIT MOKA Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.sudoku_game",
 	"image": ""
 },
@@ -163,7 +145,6 @@
 	"eng": "아일릿 민주",
 	"name": "ILLIT MINJU Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.JUNGKOOKQUOTE",
 	"image": ""
 },
@@ -179,7 +160,6 @@
 	"eng": "트와이스 다현",
 	"name": "TWICE DAHYUN Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.dohyun_wallpaper",
 	"image": ""
 },
@@ -187,7 +167,6 @@
 	"eng": "트와이스 정연",
 	"name": "TWICE JEONGYEON Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.jr_wallpaper",
 	"image": ""
 },
@@ -195,7 +174,6 @@
 	"eng": "트와이스 모모",
 	"name": "TWICE MOMO Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.momo_wallpaper",
 	"image": ""
 },
@@ -203,7 +181,6 @@
 	"eng": "트와이스 나연",
 	"name": "TWICE NAYEON Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.nayeon_wallpaper",
 	"image": ""
 },
@@ -211,7 +188,6 @@
 	"eng": "트와이스 사나",
 	"name": "TWICE SANA Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.sana_wallpaper",
 	"image": ""
 },
@@ -219,7 +195,6 @@
 	"eng": "트와이스 쯔위",
 	"name": "TWICE TZUYU Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.tzuyu_wallpaper",
 	"image": ""
 },
@@ -227,7 +202,6 @@
 	"eng": "트와이스 채영",
 	"name": "TWICE CHAEYOUNG Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.jeonsomi_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/z8aKOZXCfTqTIqnh7ex0PyVrvqkWD8A-bRkzQjLBOHIc-dNjZIM6iGGLmd_fyHU6WM4=w480-h960-rw"
 },
@@ -235,7 +209,6 @@
 	"eng": "트와이스 미나",
 	"name": "TWICE MINA Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.shownu_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/z8aKOZXCfTqTIqnh7ex0PyVrvqkWD8A-bRkzQjLBOHIc-dNjZIM6iGGLmd_fyHU6WM4=w480-h960-rw"
 },
@@ -243,7 +216,6 @@
 	"eng": "트와이스 지효",
 	"name": "TWICE JIHYO Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.chamii_wallpaper",
 	"image": ""
 },
@@ -251,7 +223,6 @@
 	"eng": "아이브",
 	"name": "IVE Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.mirae_wallpaper",
 	"image": ""
 },
@@ -259,7 +230,6 @@
 	"eng": "아이브 장원영",
 	"name": "IVE wonyoung Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.wonyoung_wallpaper",
 	"image": ""
 },
@@ -267,7 +237,6 @@
 	"eng": "아이브 안유진",
 	"name": "IVE yujin Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.randombooks",
 	"image": ""
 },
@@ -275,7 +244,6 @@
 	"eng": "아이브 레이",
 	"name": "IVE rei Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.dressup_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/tvNqj6dKgkpEOg2gPH4eI_Sd-axUjpFhfVCc-o5Kh19V-4T3GtiL77f6szMKbh5eXA=w480-h960-rw"
 },
@@ -283,7 +251,6 @@
 	"eng": "아이브 가을",
 	"name": "IVE gaeul Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.memebird_wallpaper",
 	"image": ""
 },
@@ -291,7 +258,6 @@
 	"eng": "아이브 리즈",
 	"name": "IVE liz Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.bae173paper",
 	"image": ""
 },
@@ -299,7 +265,6 @@
 	"eng": "아이브 이서",
 	"name": "IVE leeseo Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.jujihoon_wallpaper",
 	"image": ""
 },
@@ -307,7 +272,6 @@
 	"eng": "김민주",
 	"name": "IZ*ONE MINJU Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.minju_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/DRs5WwHBW7YWRkr9oup3e955LLyky--hvffLL4g12uKDraLERSkjAc5_u0MpXAOEF-ak=w480-h960-rw"
 },
@@ -315,7 +279,6 @@
 	"eng": "최예나",
 	"name": "IZ*ONE YENA Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.parkgoon_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/DRs5WwHBW7YWRkr9oup3e955LLyky--hvffLL4g12uKDraLERSkjAc5_u0MpXAOEF-ak=w480-h960-rw"
 },
@@ -323,7 +286,6 @@
 	"eng": "권은비",
 	"name": "IZ*ONE EUNBI Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.themetodo2",
 	"image": "https://play-lh.googleusercontent.com/DRs5WwHBW7YWRkr9oup3e955LLyky--hvffLL4g12uKDraLERSkjAc5_u0MpXAOEF-ak=w480-h960-rw"
 },
@@ -331,7 +293,6 @@
 	"eng": "아이즈원",
 	"name": "IZ*ONE Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.spin_wheel",
 	"image": ""
 },
@@ -339,7 +300,6 @@
 	"eng": "트리플에스",
 	"name": "tripleS Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.ash_wallpaper",
 	"image": ""
 },
@@ -347,7 +307,6 @@
 	"eng": "리센느",
 	"name": "RESCENE Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.Eunoia_romantic",
 	"image": ""
 },
@@ -355,7 +314,6 @@
 	"eng": "리센느 원이",
 	"name": "RESCENE WONI Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.dreamcatcher_wallpaper",
 	"image": ""
 },
@@ -387,7 +345,6 @@
 	"eng": "우주소녀",
 	"name": "WJSN Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.wjsn_wallpaper",
 	"image": ""
 },
@@ -395,7 +352,6 @@
 	"eng": "니쥬",
 	"name": "NiziU Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.niziu_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/pqPkzvDiImJiAVZ1BKYQcMNzxjpH6rZHsNcgyYGEVSYPiPkyJnyU7WiD7FV8gxtIgDg=w480-h960-rw"
 },
@@ -403,7 +359,6 @@
 	"eng": "프로미스나인",
 	"name": "fromis_9 Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.fromis9_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/wd9EtKn6seH-UyzeRHgA0wy0nVm3JIVn45s2toa0X_R4Z7g5oqRB1rCxgKz8yp6EGA=w480-h960-rw"
 },
@@ -411,7 +366,6 @@
 	"eng": "프로미스나인 지원",
 	"name": "fromis_9 JIWON Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.junho_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/wd9EtKn6seH-UyzeRHgA0wy0nVm3JIVn45s2toa0X_R4Z7g5oqRB1rCxgKz8yp6EGA=w480-h960-rw"
 },
@@ -419,7 +373,6 @@
 	"eng": "프로미스나인 하영",
 	"name": "fromis_9 HAYOUNG Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.Eunoia_motivational",
 	"image": "https://play-lh.googleusercontent.com/wd9EtKn6seH-UyzeRHgA0wy0nVm3JIVn45s2toa0X_R4Z7g5oqRB1rCxgKz8yp6EGA=w480-h960-rw"
 },
@@ -427,7 +380,6 @@
 	"eng": "프로미스나인 지헌",
 	"name": "fromis_9 JIHEON Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.Eunoia_dreams",
 	"image": "https://play-lh.googleusercontent.com/wd9EtKn6seH-UyzeRHgA0wy0nVm3JIVn45s2toa0X_R4Z7g5oqRB1rCxgKz8yp6EGA=w480-h960-rw"
 },
@@ -435,7 +387,6 @@
 	"eng": "프로미스나인 채영",
 	"name": "fromis_9 CHAEYOUNG Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.seonho_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/wd9EtKn6seH-UyzeRHgA0wy0nVm3JIVn45s2toa0X_R4Z7g5oqRB1rCxgKz8yp6EGA=w480-h960-rw"
 },
@@ -443,7 +394,6 @@
 	"eng": "프로미스나인 나경",
 	"name": "fromis_9 NAGYUNG Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.picturequotes",
 	"image": "https://play-lh.googleusercontent.com/wd9EtKn6seH-UyzeRHgA0wy0nVm3JIVn45s2toa0X_R4Z7g5oqRB1rCxgKz8yp6EGA=w480-h960-rw"
 },
@@ -451,7 +401,6 @@
 	"eng": "캣츠아이",
 	"name": "KATSEYE Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.hyoseop_wallpaper",
 	"image": ""
 },
@@ -459,7 +408,6 @@
 	"eng": "케플러",
 	"name": "Kep1er Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.girls999_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/h1SLQSE9x0mrRvuyC-CyLxHJstThJIrwGpnwbPYHCJSp8pgXtaIFF0QFXhfYbwI8nw=w480-h960-rw"
 },
@@ -475,7 +423,6 @@
 	"eng": "르세라핌",
 	"name": "LE SSERAFIM Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.sserafim_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/HlCWTzaiDvk3smXtYrK1vI17XKmWPT64N8SfEqiPiGkL3ElVxyuP4I7N5NEZQ9S7c_k8=w480-h960-rw"
 },
@@ -483,7 +430,6 @@
 	"eng": "르세라핌 카즈하",
 	"name": "LE SSERAFIM KAZUHA Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.VQUOTE",
 	"image": "https://play-lh.googleusercontent.com/HlCWTzaiDvk3smXtYrK1vI17XKmWPT64N8SfEqiPiGkL3ElVxyuP4I7N5NEZQ9S7c_k8=w480-h960-rw"
 },
@@ -491,7 +437,6 @@
 	"eng": "르세라핌 홍은채",
 	"name": "LE SSERAFIM EUNCHAE Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.pantagon_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/HlCWTzaiDvk3smXtYrK1vI17XKmWPT64N8SfEqiPiGkL3ElVxyuP4I7N5NEZQ9S7c_k8=w480-h960-rw"
 },
@@ -499,7 +444,6 @@
 	"eng": "르세라핌 김채원",
 	"name": "LE SSERAFIM CHAEWON Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.Eunoia_friendship",
 	"image": "https://play-lh.googleusercontent.com/HlCWTzaiDvk3smXtYrK1vI17XKmWPT64N8SfEqiPiGkL3ElVxyuP4I7N5NEZQ9S7c_k8=w480-h960-rw"
 },
@@ -507,7 +451,6 @@
 	"eng": "르세라핌 사쿠라",
 	"name": "LE SSERAFIM SAKURA Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.Hezkiah",
 	"image": "https://play-lh.googleusercontent.com/HlCWTzaiDvk3smXtYrK1vI17XKmWPT64N8SfEqiPiGkL3ElVxyuP4I7N5NEZQ9S7c_k8=w480-h960-rw"
 },
@@ -515,7 +458,6 @@
 	"eng": "르세라핌 허윤진",
 	"name": "LE SSERAFIM YUNJIN Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.exo_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/HlCWTzaiDvk3smXtYrK1vI17XKmWPT64N8SfEqiPiGkL3ElVxyuP4I7N5NEZQ9S7c_k8=w480-h960-rw"
 },
@@ -523,7 +465,6 @@
 	"eng": "뉴진스",
 	"name": "NewJeans Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.blinkquote",
 	"image": "https://play-lh.googleusercontent.com/sNf7MtuR5M8Eu_EDvtfiTqHIzaZdfS7BuNHi_A1RFoaCClXLlr513dgJNe-sj90MIJA=w480-h960-rw"
 },
@@ -531,7 +472,6 @@
 	"eng": "뉴진스 민지",
 	"name": "NewJeans MINJI Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.minji_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/sNf7MtuR5M8Eu_EDvtfiTqHIzaZdfS7BuNHi_A1RFoaCClXLlr513dgJNe-sj90MIJA=w480-h960-rw"
 },
@@ -539,7 +479,6 @@
 	"eng": "뉴진스 하니",
 	"name": "NewJeans HANNI Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.hanni_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/sNf7MtuR5M8Eu_EDvtfiTqHIzaZdfS7BuNHi_A1RFoaCClXLlr513dgJNe-sj90MIJA=w480-h960-rw"
 },
@@ -547,7 +486,6 @@
 	"eng": "뉴진스 다니엘",
 	"name": "NewJeans DANIELLE Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.danielle_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/sNf7MtuR5M8Eu_EDvtfiTqHIzaZdfS7BuNHi_A1RFoaCClXLlr513dgJNe-sj90MIJA=w480-h960-rw"
 },
@@ -555,7 +493,6 @@
 	"eng": "뉴진스 해린",
 	"name": "NewJeans HAERIN Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.haerin_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/sNf7MtuR5M8Eu_EDvtfiTqHIzaZdfS7BuNHi_A1RFoaCClXLlr513dgJNe-sj90MIJA=w480-h960-rw"
 },
@@ -563,7 +500,6 @@
 	"eng": "뉴진스 혜인",
 	"name": "NewJeans HYEIN Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.hyein_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/sNf7MtuR5M8Eu_EDvtfiTqHIzaZdfS7BuNHi_A1RFoaCClXLlr513dgJNe-sj90MIJA=w480-h960-rw"
 },
@@ -571,7 +507,6 @@
 	"eng": "여자아이들",
 	"name": "(G)I-DLE Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.RMQUOTE",
 	"image": "https://play-lh.googleusercontent.com/Ao9VIe8jumbDcHKGhZ-HYNr6L0RBvCqa4JMdGOLoQtMHMlanRtKHCWEKOEELpVwR2g=w480-h960-rw"
 },
@@ -579,7 +514,6 @@
 	"eng": "여자아이들 소연",
 	"name": "(G)I-DLE SOYEON Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.blackwallpaper",
 	"image": "https://play-lh.googleusercontent.com/Ao9VIe8jumbDcHKGhZ-HYNr6L0RBvCqa4JMdGOLoQtMHMlanRtKHCWEKOEELpVwR2g=w480-h960-rw"
 },
@@ -587,7 +521,6 @@
 	"eng": "여자아이들 우기",
 	"name": "(G)I-DLE YUQI Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.pinkwallpaper",
 	"image": "https://play-lh.googleusercontent.com/Ao9VIe8jumbDcHKGhZ-HYNr6L0RBvCqa4JMdGOLoQtMHMlanRtKHCWEKOEELpVwR2g=w480-h960-rw"
 },
@@ -595,7 +528,6 @@
 	"eng": "여자아이들 민니",
 	"name": "(G)I-DLE MINNIE Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.yellowwallpaper",
 	"image": "https://play-lh.googleusercontent.com/Ao9VIe8jumbDcHKGhZ-HYNr6L0RBvCqa4JMdGOLoQtMHMlanRtKHCWEKOEELpVwR2g=w480-h960-rw"
 },
@@ -619,7 +551,6 @@
 	"eng": "에스파 카리나",
 	"name": "aespa KARINA Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.bogum_wallpaper",
 	"image": ""
 },
@@ -627,7 +558,6 @@
 	"eng": "에스파 지젤",
 	"name": "aespa GISELLE Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.pattern_generator",
 	"image": "https://play-lh.googleusercontent.com/quqibsxnEyuUbJPm6b6k6sMg1JVZAcSVM8QtksVcXwK7KLejgGURZO-dCexDZGB27VQ=w480-h960-rw"
 },
@@ -635,7 +565,6 @@
 	"eng": "에스파 닝닝",
 	"name": "aespa NINGNING Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.happy_frame",
 	"image": "https://play-lh.googleusercontent.com/quqibsxnEyuUbJPm6b6k6sMg1JVZAcSVM8QtksVcXwK7KLejgGURZO-dCexDZGB27VQ=w480-h960-rw"
 },
@@ -643,7 +572,6 @@
 	"eng": "엔믹스",
 	"name": "NMIXX Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.nmixx_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/z54YsECDr_sZmbtf6zBc5q8LK0Oa27saA1-5xu_fpcFYdQ4xkScHf84zcfEgPXHql5Q=w480-h960-rw"
 },
@@ -651,7 +579,6 @@
 	"eng": "엔믹스 배이",
 	"name": "NMIXX BAE Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.gifs_enhypen",
 	"image": "https://play-lh.googleusercontent.com/z54YsECDr_sZmbtf6zBc5q8LK0Oa27saA1-5xu_fpcFYdQ4xkScHf84zcfEgPXHql5Q=w480-h960-rw"
 },
@@ -659,7 +586,6 @@
 	"eng": "엔믹스 설윤",
 	"name": "NMIXX SULLYOON Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.gifs_blackpink",
 	"image": "https://play-lh.googleusercontent.com/z54YsECDr_sZmbtf6zBc5q8LK0Oa27saA1-5xu_fpcFYdQ4xkScHf84zcfEgPXHql5Q=w480-h960-rw"
 },
@@ -667,7 +593,6 @@
 	"eng": "엔믹스 해원",
 	"name": "NMIXX HAEWON Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.Eunoia_religion",
 	"image": "https://play-lh.googleusercontent.com/z54YsECDr_sZmbtf6zBc5q8LK0Oa27saA1-5xu_fpcFYdQ4xkScHf84zcfEgPXHql5Q=w480-h960-rw"
 },
@@ -675,7 +600,6 @@
 	"eng": "엔믹스 지우",
 	"name": "NMIXX JIWOO Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.Eunoia_experience",
 	"image": "https://play-lh.googleusercontent.com/z54YsECDr_sZmbtf6zBc5q8LK0Oa27saA1-5xu_fpcFYdQ4xkScHf84zcfEgPXHql5Q=w480-h960-rw"
 },
@@ -683,7 +607,6 @@
 	"eng": "엔믹스 규진",
 	"name": "NMIXX KYUJIN Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.Eunoia_chance",
 	"image": "https://play-lh.googleusercontent.com/z54YsECDr_sZmbtf6zBc5q8LK0Oa27saA1-5xu_fpcFYdQ4xkScHf84zcfEgPXHql5Q=w480-h960-rw"
 },
@@ -691,7 +614,6 @@
 	"eng": "있지",
 	"name": "ITZY Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.itzy",
 	"image": ""
 },
@@ -699,7 +621,6 @@
 	"eng": "있지 유나",
 	"name": "ITZY YUNA Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.itzyyuna_wallpaper",
 	"image": ""
 },
@@ -707,7 +628,6 @@
 	"eng": "있지 채령",
 	"name": "ITZY CHAERYEONG Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.hero_trot",
 	"image": "https://play-lh.googleusercontent.com/k7mB5DJOq0ZSawmlSAtNO0DrgTGxRgdgOqn0gGkLNxTVNm-WpM0mCNnQD3nEQkV2cms=w480-h960-rw"
 },
@@ -715,7 +635,6 @@
 	"eng": "있지 예지",
 	"name": "ITZY YEJI Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.themetodo3",
 	"image": "https://play-lh.googleusercontent.com/k7mB5DJOq0ZSawmlSAtNO0DrgTGxRgdgOqn0gGkLNxTVNm-WpM0mCNnQD3nEQkV2cms=w480-h960-rw"
 },
@@ -723,7 +642,6 @@
 	"eng": "있지 류진",
 	"name": "ITZY RYUJIN Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.themetodo4",
 	"image": "https://play-lh.googleusercontent.com/k7mB5DJOq0ZSawmlSAtNO0DrgTGxRgdgOqn0gGkLNxTVNm-WpM0mCNnQD3nEQkV2cms=w480-h960-rw"
 },
@@ -731,7 +649,6 @@
 	"eng": "킥플립",
 	"name": "KickFlip Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.randomlunch",
 	"image": ""
 },
@@ -739,7 +656,6 @@
 	"eng": "코르티스",
 	"name": "CORTIS Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.fancy_emoji",
 	"image": ""
 },
@@ -747,7 +663,6 @@
 	"eng": "아홉",
 	"name": "AHOF Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.JIMINQUOTE",
 	"image": ""
 },
@@ -755,7 +670,6 @@
 	"eng": "슈퍼주니어",
 	"name": "Super Junior Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.plusminus",
 	"image": ""
 },
@@ -763,7 +677,6 @@
 	"eng": "우즈",
 	"name": "WOODZ Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.changewallpaper",
 	"image": ""
 },
@@ -771,7 +684,6 @@
 	"eng": "투어스",
 	"name": "TWS Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.sleep_sound",
 	"image": ""
 },
@@ -779,7 +691,6 @@
 	"eng": "데이식스",
 	"name": "DAY6 Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.newquiz",
 	"image": ""
 },
@@ -787,7 +698,6 @@
 	"eng": "아스트로",
 	"name": "ASTRO Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.fontemoticon",
 	"image": "https://play-lh.googleusercontent.com/8b4oHPf7wDOSuo3_xCTWsKBvWKQeEs0tR4qP43I71RXfKv8sMllC5I79762NP0Dlpw=w480-h960-rw"
 },
@@ -795,7 +705,6 @@
 	"eng": "차은우",
 	"name": "ASTRO EUNWOO Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.eunwoo_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/8b4oHPf7wDOSuo3_xCTWsKBvWKQeEs0tR4qP43I71RXfKv8sMllC5I79762NP0Dlpw=w480-h960-rw"
 },
@@ -803,7 +712,6 @@
 	"eng": "앤팀",
 	"name": "&TEAM Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.minhyun_wallpaper",
 	"image": ""
 },
@@ -811,7 +719,6 @@
 	"eng": "에이티즈",
 	"name": "ATEEZ Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.ateez_wallpaper",
 	"image": ""
 },
@@ -819,7 +726,6 @@
 	"eng": "지드래곤",
 	"name": "BIGBANG dragon Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.dragon_wallpaper",
 	"image": ""
 },
@@ -827,7 +733,6 @@
 	"eng": "보이넥스트도어",
 	"name": "BOYNEXTDOOR Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.nctjaehyun",
 	"image": ""
 },
@@ -835,7 +740,6 @@
 	"eng": "더보이즈",
 	"name": "THE BOYZ Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.boyz_wallpaper",
 	"image": ""
 },
@@ -843,7 +747,6 @@
 	"eng": "크래비티",
 	"name": "CRAVITY Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.cravity_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/FiX_3JBHUzQ-r3A2WByGe0Z1gpZXSGJkSMjxgx3K47uWggVFXzSiQHP6cF73NkjqAgqX=w480-h960-rw"
 },
@@ -859,7 +762,6 @@
 	"eng": "원어스",
 	"name": "ONEUS Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.oneus_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/x05-pjyBnjrJ6m6JlDs3s3WP0rZh8DZCiWeCZBp-WAdlBQDm3rm3YClnD-OY856ya0w=w480-h960-rw"
 },
@@ -867,7 +769,6 @@
 	"eng": "라이즈",
 	"name": "RIIZE Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.Eunoia_wisdom",
 	"image": ""
 },
@@ -883,7 +784,6 @@
 	"eng": "투바투 연준",
 	"name": "TXT YEONJUN Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.coloring_animal",
 	"image": ""
 },
@@ -891,7 +791,6 @@
 	"eng": "제베원",
 	"name": "ZEROBASEONE Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.jungseok_wallpaper",
 	"image": ""
 },
@@ -899,7 +798,6 @@
 	"eng": "제베원 한빈",
 	"name": "ZEROBASEONE HANBIN Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.Eunoia_love",
 	"image": ""
 },
@@ -915,7 +813,6 @@
 	"eng": "세븐틴 도겸",
 	"name": "SEVENTEEN DK Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.btsquotes_noads",
 	"image": "https://play-lh.googleusercontent.com/lkKHaKUkXlpTseBuiEohr0_FZiTM8kWbHwTlkWmDKmjSXwwHeVOD2IRIf-Lh2hyb-g=w480-h960-rw"
 },
@@ -931,7 +828,6 @@
 	"eng": "세븐틴 정한",
 	"name": "SEVENTEEN JEONGHAN Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.themetodo1",
 	"image": "https://play-lh.googleusercontent.com/lkKHaKUkXlpTseBuiEohr0_FZiTM8kWbHwTlkWmDKmjSXwwHeVOD2IRIf-Lh2hyb-g=w480-h960-rw"
 },
@@ -939,7 +835,6 @@
 	"eng": "세븐틴 조슈아",
 	"name": "SEVENTEEN JOSHUA Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.Eunoia_art",
 	"image": "https://play-lh.googleusercontent.com/lkKHaKUkXlpTseBuiEohr0_FZiTM8kWbHwTlkWmDKmjSXwwHeVOD2IRIf-Lh2hyb-g=w480-h960-rw"
 },
@@ -947,7 +842,6 @@
 	"eng": "세븐틴 승관",
 	"name": "SEVENTEEN SEUNGKWAN Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.themetodo5",
 	"image": "https://play-lh.googleusercontent.com/lkKHaKUkXlpTseBuiEohr0_FZiTM8kWbHwTlkWmDKmjSXwwHeVOD2IRIf-Lh2hyb-g=w480-h960-rw"
 },
@@ -955,7 +849,6 @@
 	"eng": "세븐틴 원우",
 	"name": "SEVENTEEN WONWOO Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.superhero",
 	"image": "https://play-lh.googleusercontent.com/lkKHaKUkXlpTseBuiEohr0_FZiTM8kWbHwTlkWmDKmjSXwwHeVOD2IRIf-Lh2hyb-g=w480-h960-rw"
 },
@@ -963,7 +856,6 @@
 	"eng": "세븐틴 우지",
 	"name": "SEVENTEEN WOOZI Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.gongyoo_wallpaper",
 	"image": ""
 },
@@ -979,7 +871,6 @@
 	"eng": "스키즈 리노",
 	"name": "Stray Kids LEE KNOW Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.irene_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/icJ6nabW4zn-gWJqSdPjZuOcZJLn0BrVtjEBRpWniIQmgPdOLqDS4o6PvDNe-8gf21Xm=w480-h960-rw"
 },
@@ -987,7 +878,6 @@
 	"eng": "스키즈 현진",
 	"name": "Stray Kids HYUNJIN Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.allani_wallpaper",
 	"image": ""
 },
@@ -995,7 +885,6 @@
 	"eng": "스키즈 필릭스",
 	"name": "Stray Kids FELIX Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.Pantone_art",
 	"image": "https://play-lh.googleusercontent.com/icJ6nabW4zn-gWJqSdPjZuOcZJLn0BrVtjEBRpWniIQmgPdOLqDS4o6PvDNe-8gf21Xm=w480-h960-rw"
 },
@@ -1003,7 +892,6 @@
 	"eng": "피원하모니",
 	"name": "P1Harmony Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.pm_wallpaper",
 	"image": ""
 },
@@ -1011,7 +899,6 @@
 	"eng": "엔하이픈",
 	"name": "ENHYPEN Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.enhypen",
 	"image": ""
 },
@@ -1019,7 +906,6 @@
 	"eng": "엔하이픈 희승",
 	"name": "ENHYPEN HEESEUNG Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.enhypen_heeseung",
 	"image": ""
 },
@@ -1027,7 +913,6 @@
 	"eng": "엔하이픈 제이크",
 	"name": "ENHYPEN JAKE Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.enhypen_jake",
 	"image": ""
 },
@@ -1035,7 +920,6 @@
 	"eng": "엔하이픈 제이",
 	"name": "ENHYPEN JAY Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.enhypen_jay",
 	"image": ""
 },
@@ -1043,7 +927,6 @@
 	"eng": "엔하이픈 정원",
 	"name": "ENHYPEN JUNGWON Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.enhypen_jungwon",
 	"image": ""
 },
@@ -1051,7 +934,6 @@
 	"eng": "엔하이픈 니키",
 	"name": "ENHYPEN NI-KI Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.enhypen_niki",
 	"image": ""
 },
@@ -1059,7 +941,6 @@
 	"eng": "엔하이픈 성훈",
 	"name": "ENHYPEN SUNGHOON Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.enhypen_sunghoon",
 	"image": ""
 },
@@ -1067,7 +948,6 @@
 	"eng": "엔하이픈 선우",
 	"name": "ENHYPEN KIMSUNOO Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.enhypen_sunoo",
 	"image": "https://play-lh.googleusercontent.com/x2sDwakgb9P6My6hfo99fJLKK5fYIKLSh7ySNATF99IG6GOHaxnO7TnWetiGxhnQaWM=w480-h960-rw"
 },
@@ -1075,7 +955,6 @@
 	"eng": "세일러문",
 	"name": "Anime sailor Wallpaper",
 	"category": "Anime",
-	"rating": 5.0,
 	"package_name": "com.offsong.sailor_wallpaper",
 	"image": ""
 },
@@ -1083,7 +962,6 @@
 	"eng": "에반게리온",
 	"name": "Anime evangelion Wallpaper",
 	"category": "Anime",
-	"rating": 5.0,
 	"package_name": "com.offsong.in_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/0b_RgwrLRPA2SP_K5uSSYpZuzmLjM9i7P7RdPrwrsgTGbe94D92lYAP89vb3vvD8yDE=w480-h960-rw"
 },
@@ -1091,7 +969,6 @@
 	"eng": "주술회전",
 	"name": "Anime jujutsu Wallpaper",
 	"category": "Anime",
-	"rating": 5.0,
 	"package_name": "com.offsong.exoquote",
 	"image": ""
 },
@@ -1099,7 +976,6 @@
 	"eng": "카드캡터체리",
 	"name": "Anime sakura Wallpaper",
 	"category": "Anime",
-	"rating": 5.0,
 	"package_name": "com.offsong.cardcaptor_wallpaper",
 	"image": ""
 },
@@ -1107,7 +983,6 @@
 	"eng": "불꽃소방대",
 	"name": "Anime fireforce Wallpaper",
 	"category": "Anime",
-	"rating": 5.0,
 	"package_name": "com.offsong.ab6ix_wallpaper",
 	"image": ""
 },
@@ -1115,7 +990,6 @@
 	"eng": "귀멸의칼날",
 	"name": "demonslayer Wallpaper",
 	"category": "Anime",
-	"rating": 5.0,
 	"package_name": "com.offsong.demonslayer",
 	"image": ""
 },
@@ -1123,7 +997,6 @@
 	"eng": "미스터트롯",
 	"name": "Trot Wallpaper",
 	"category": "Trot",
-	"rating": 5.0,
 	"package_name": "com.offsong.mrtrot_wallpaper",
 	"image": ""
 },
@@ -1131,7 +1004,6 @@
 	"eng": "이찬원",
 	"name": "Trot chanwon Wallpaper",
 	"category": "Trot",
-	"rating": 5.0,
 	"package_name": "com.offsong.chanwon_wallpaper",
 	"image": ""
 },
@@ -1139,7 +1011,6 @@
 	"eng": "정동원",
 	"name": "Trot dongwon Wallpaper",
 	"category": "Trot",
-	"rating": 5.0,
 	"package_name": "com.offsong.kangmina",
 	"image": ""
 },
@@ -1147,7 +1018,6 @@
 	"eng": "송가인",
 	"name": "Trot gain Wallpaper",
 	"category": "Trot",
-	"rating": 5.0,
 	"package_name": "com.offsong.song_wallpaper",
 	"image": ""
 },
@@ -1155,7 +1025,6 @@
 	"eng": "임영웅",
 	"name": "Trot hero Wallpaper",
 	"category": "Trot",
-	"rating": 5.0,
 	"package_name": "com.offsong.hero_wallpaper",
 	"image": ""
 },
@@ -1163,7 +1032,6 @@
 	"eng": "장민호",
 	"name": "Trot minho Wallpaper",
 	"category": "Trot",
-	"rating": 5.0,
 	"package_name": "com.offsong.btsquiz",
 	"image": ""
 },
@@ -1171,7 +1039,6 @@
 	"eng": "영탁",
 	"name": "Trot youngtak Wallpaper",
 	"category": "Trot",
-	"rating": 5.0,
 	"package_name": "com.offsong.youngtak_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/TH3PXir4hd9sHidt9tWTXVsLO7exCtJEUAjpdOlkFjG1XeuQdnJ-2najpqQnK2PlJxc=w480-h960-rw"
 },
@@ -1179,7 +1046,6 @@
 	"eng": "드라마커플",
 	"name": "Actors kor couple Wallpaper",
 	"category": "Actor",
-	"rating": 5.0,
 	"package_name": "com.offsong.joy_wallpaper",
 	"image": ""
 },
@@ -1187,7 +1053,6 @@
 	"eng": "한국남자배우",
 	"name": "Actors kor male Wallpaper",
 	"category": "Actor",
-	"rating": 5.0,
 	"package_name": "com.offsong.heroquote",
 	"image": ""
 },
@@ -1195,7 +1060,6 @@
 	"eng": "변우석",
 	"name": "solo byeonwooseok Wallpaper",
 	"category": "Actor",
-	"rating": 5.0,
 	"package_name": "com.offsong.Eunoia_success",
 	"image": ""
 },
@@ -1203,7 +1067,6 @@
 	"eng": "이민호",
 	"name": "solo leeminho Wallpaper",
 	"category": "Actor",
-	"rating": 5.0,
 	"package_name": "com.offsong.leeminho_wallpaper",
 	"image": ""
 },
@@ -1211,7 +1074,6 @@
 	"eng": "송강",
 	"name": "solo songkang Wallpaper",
 	"category": "Actor",
-	"rating": 5.0,
 	"package_name": "com.offsong.songkang_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/1kfuT8K7K5Ge8zcH6Y5jAXh33zVpxzpObQdKGScuSXEl5Bt9Nf6bW6jdUxy5sQLInw=w480-h960-rw"
 },
@@ -1219,7 +1081,6 @@
 	"eng": "황인엽",
 	"name": "solo inyoup Wallpaper",
 	"category": "Actor",
-	"rating": 5.0,
 	"package_name": "com.offsong.hiy_wallpaper",
 	"image": ""
 },
@@ -1227,7 +1088,6 @@
 	"eng": "한국여자배우",
 	"name": "Actors kor girl Wallpaper",
 	"category": "Actor",
-	"rating": 5.0,
 	"package_name": "com.offsong.loona_wallpaper",
 	"image": ""
 },
@@ -1235,7 +1095,6 @@
 	"eng": "수지",
 	"name": "solo suzy Wallpaper",
 	"category": "Actor",
-	"rating": 5.0,
 	"package_name": "com.offsong.todo",
 	"image": ""
 },
@@ -1243,7 +1102,6 @@
 	"eng": "김지원",
 	"name": "solo kimjiwon Wallpaper",
 	"category": "Actor",
-	"rating": 5.0,
 	"package_name": "com.offsong.shinee_wallpaper",
 	"image": ""
 },
@@ -1251,7 +1109,6 @@
 	"eng": "고윤정",
 	"name": "solo younjung Wallpaper",
 	"category": "Actor",
-	"rating": 5.0,
 	"package_name": "com.offsong.shinhye_wallpaper",
 	"image": ""
 },
@@ -1259,7 +1116,6 @@
 	"eng": "한소희",
 	"name": "solo sohee Wallpaper",
 	"category": "Actor",
-	"rating": 5.0,
 	"package_name": "com.offsong.sohee_wallpaper",
 	"image": ""
 },
@@ -1267,7 +1123,6 @@
 	"eng": "김세정",
 	"name": "solo sejeong Wallpaper",
 	"category": "Actor",
-	"rating": 5.0,
 	"package_name": "com.offsong.sejeong_wallpaper",
 	"image": ""
 },
@@ -1275,7 +1130,6 @@
 	"eng": "손나은",
 	"name": "solo sonnaeun Wallpaper",
 	"category": "Actor",
-	"rating": 5.0,
 	"package_name": "com.offsong.sonnaeun_wallpaper",
 	"image": ""
 },
@@ -1283,7 +1137,6 @@
 	"eng": "조이현",
 	"name": "solo yihyun Wallpaper",
 	"category": "Actor",
-	"rating": 5.0,
 	"package_name": "com.offsong.yihyun_wallpaper",
 	"image": ""
 },
@@ -1291,7 +1144,6 @@
 	"eng": "설현",
 	"name": "solo seolhyun Wallpaper",
 	"category": "Actor",
-	"rating": 5.0,
 	"package_name": "com.offsong.seolhyun_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/Raa3TQizKyCGfb6eG2vnU8Mhen5VNK4G3N8B1o2J5B6zZ-Rxtm9PSiga3dCp0AG-n6MC=w480-h960-rw"
 },
@@ -1307,7 +1159,6 @@
 	"eng": "쓰리디입체",
 	"name": "Aesthetic 3d Wallpaper",
 	"category": "Etc",
-	"rating": 5.0,
 	"package_name": "com.offsong.SUGAQUOTE",
 	"image": ""
 },
@@ -1315,7 +1166,6 @@
 	"eng": "귀엽고사랑스러운",
 	"name": "Aesthetic cute Wallpaper",
 	"category": "Etc",
-	"rating": 5.0,
 	"package_name": "com.offsong.kawaii_wallpaper",
 	"image": ""
 },
@@ -1323,7 +1173,6 @@
 	"eng": "스테판커리",
 	"name": "Sports Stars curry Wallpaper",
 	"category": "Etc",
-	"rating": 5.0,
 	"package_name": "com.offsong.allcat_wallpaper",
 	"image": ""
 },
@@ -1331,7 +1180,6 @@
 	"eng": "테일러스위프트",
 	"name": "World Stars taylorswift Wallpaper",
 	"category": "Etc",
-	"rating": 5.0,
 	"package_name": "com.offsong.randomlovebooks",
 	"image": "https://play-lh.googleusercontent.com/kEPkkX_LXeh7V9iotlu6AAYQe6KpZuQAlwDXvwrTAsI5L55nPa8uKSiGp-GHMgfpcKM=w480-h960-rw"
 },
@@ -1339,7 +1187,6 @@
 	"eng": "스칼렛요한슨",
 	"name": "World Stars johansson Wallpaper",
 	"category": "Etc",
-	"rating": 5.0,
 	"package_name": "com.offsong.btsquotes_jpn",
 	"image": ""
 },
@@ -1347,7 +1194,6 @@
 	"eng": "올데이프로젝트",
 	"name": "ALLDAY PROJECT Wallpaper",
 	"category": "Idol",
-	"rating": 5.0,
 	"package_name": "com.offsong.videogame_wallpaper",
 	"image": ""
 },
@@ -1355,7 +1201,6 @@
 	"eng": "일본",
 	"name": "Japan Wallpaper",
 	"category": "Etc",
-	"rating": 5.0,
 	"package_name": "com.offsong.sf9_wallpaper",
 	"image": ""
 },
@@ -1363,7 +1208,6 @@
 	"eng": "테디베어",
 	"name": "Aesthetic teddybear Wallpaper",
 	"category": "Etc",
-	"rating": 5.0,
 	"package_name": "com.offsong.hoyeon_wallpaper",
 	"image": ""
 },
@@ -1371,7 +1215,6 @@
 	"eng": "책속한줄",
 	"name": "Quotes haru Wallpaper",
 	"category": "Etc",
-	"rating": 5.0,
 	"package_name": "com.offsong.onelinebooks",
 	"image": ""
 }
