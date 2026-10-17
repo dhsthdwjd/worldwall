@@ -3,7 +3,6 @@
     "eng": "Stray Kids (SKZ) HD Wallpaper",
     "kor": "스트레이 키즈 고화질 배경화면 & 잠금화면",
     "category": "Boy Group",
-    "rating": 4.7,
     "package_name": "com.offsong.skz_wallpaper",
     "image": "https://play-lh.googleusercontent.com/icJ6nabW4zn-gWJqSdPjZuOcZJLn0BrVtjEBRpWniIQmgPdOLqDS4o6PvDNe-8gf21Xm=w240-h480"
   },
@@ -183,12 +182,18 @@
     "package_name": "com.offsong.dreamcatcher_wallpaper",
     "image": "https://play-lh.googleusercontent.com/nqh9s8GkhiEu2Al65naz7TFVHEJWqlxTNFJPTfa2gTg-ENmc1ALFZIDocv5vOI23UQnoC7hd6zOD_34eFx68Hw=w480-h960-rw"
   },
+  {
+    "eng": "ZENA (RESCENE) Wallpaper",
+    "kor": "제나 (리센느) 고화질 배경화면",
+    "category": "Girl Group",
+    "package_name": "com.offsong.changewallpaper",
+    "image": "https://play-lh.googleusercontent.com/K1MvFqFv2NgmzHQclirpMsV2x_Ttp08-vBk9e98eme8YHod6l-w4e5-HudPWfm4MP6EWcDcX_vdnymeo_nk=w480-h960-rw"
+  },
   
   {
     "eng": "AESPA Wallpaper",
     "kor": "에스파 (AESPA) 고화질 배경화면",
     "category": "Girl Group",
-    "rating": 4.8,
     "package_name": "com.offsong.aespa",
     "image": "https://play-lh.googleusercontent.com/SVFMijlMwNew97ii4LQerp8fIkUOAsz7hFs1wX8_ZshFhbrhSOekoMYlUkHcRl1ooc57VcxStyNGLPa1Zo6YrQ=w240-h480"
   },
@@ -196,7 +201,6 @@
     "eng": "WINTER (Aespa) HD Wallpaper",
     "kor": "윈터 (에스파) 고화질 배경화면",
     "category": "Girl Group",
-    "rating": 4.7,
     "package_name": "com.offsong.joohyuk_wallpaper",
     "image": "https://play-lh.googleusercontent.com/FE0MQpcX0Q3SZmvUJLxY8lQC0o38VGSxZ5seLHs67FBH4sCYZAlPNu8cnu6XGfENxiYT1xQkEn4mdXvs3-vICpY=w240-h480"
   },
@@ -848,13 +852,6 @@
     "category": "Boy Group",
     "package_name": "com.offsong.plusminus",
     "image": "https://play-lh.googleusercontent.com/uU4StXAJi8R6rX53j_zfM4_T2tM0m4nKCBm6JvSXg5ob_QjheBoVEiMAl5wXThzlfwCTVX2i8KQrk00MHXbZXgw=w240-h480"
-  },
-  {
-    "eng": "WOODZ Wallpaper",
-    "kor": "우즈 (조승연) 고화질 배경화면",
-    "category": "Boy Group",
-    "package_name": "com.offsong.changewallpaper",
-    "image": "https://play-lh.googleusercontent.com/Qo1RQ64DOLv2Bdqru-lQbMAZEpD1r9x_hNz4hNPIygLUhPPTvjNEURgtxj_iPtVtbQ=w240-h480"
   },
   {
     "eng": "TWS HD Wallpaper",
