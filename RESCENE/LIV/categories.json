@@ -1,0 +1,16 @@
+[
+	{
+	    "name": "LIV",
+	    "name_kor": "리브",
+	    "preview1": "https://i.pinimg.com/474x/0a/70/42/0a7042e4f1511782a533ac8f54d1e79b.jpg",
+	    "preview2": "https://i.pinimg.com/474x/75/83/85/75838595de4a3a0312832d324bda99f2.jpg",
+	    "preview3": "https://i.pinimg.com/474x/5e/51/38/5e513859d9a207f2dd73c7d1d4cac2d5.jpg"
+	  },
+  	{
+  	    "name": "icon",
+  	    "name_kor": "아이콘",
+	    "preview1": "https://i.pinimg.com/474x/0a/13/5c/0a135c6f8995b2e9adf265db65336402.jpg",
+	    "preview2": "https://i.pinimg.com/474x/1d/25/52/1d25522ba4322bbb308529a7b9a674ea.jpg",
+	    "preview3": "https://i.pinimg.com/474x/10/c6/23/10c623c1311486510ac93b3da70a4ffd.jpg"
+  	  }
+]
