@@ -619,13 +619,6 @@
     "image": "https://play-lh.googleusercontent.com/6E7dCDtKgbpZpnNpu1ChaarUWFtJKWbA4veuw3cih6GXxmDSAZb9d0ugmGrbKMpSCZcy0dCcpi030BygafcOmw=w240-h480"
   },
   {
-    "eng": "WJSN Wallpaper",
-    "kor": "우주소녀 고화질 배경화면 & 잠금화면",
-    "category": "Girl Group",
-    "package_name": "com.offsong.wjsn_wallpaper",
-    "image": "https://play-lh.googleusercontent.com/8o8mILKpfNBtOTz58_ps6G0JxoFu216aii75nGwLWduDZwIoNHL-_I6sfPQfaIgf6As=w240-h480"
-  },
-  {
     "eng": "NiziU (ニジュー) HD Wallpaper",
     "kor": "니쥬 고화질 배경화면",
     "category": "Girl Group",
@@ -1238,6 +1231,20 @@
     "category": "Etc",
     "package_name": "com.offsong.onelinebooks",
     "image": "https://play-lh.googleusercontent.com/okhcoQLj1YAtK0gq7R8ztgazBsaq_aoUGoVyFqoXLnYa9ibEX_p5dZALIZtNtmdPVLrcDrtp5msJObD-lyDn5g=w240-h480"
+  },
+  {
+    "eng": "Bias Icon - Kpop Icon Changer",
+    "kor": "최애콘 - 최애 아이콘 꾸미기",
+    "category": "Productivity",
+    "package_name": "com.offsong.wjsn_wallpaper",
+    "image": "https://play-lh.googleusercontent.com/mnBlFH0k71Ja6u0_6qwNurgdL19dj2c7OhrLdtG5jn-RdLcqZFUNialJO81cJ4GC0TaDGG7gu4bSx_uTEeZ6mQ=w480-h960-rw"
+  },
+  {
+    "eng": "Today’s Discovery: Daily Bingo",
+    "kor": "오늘의 발견: 폰 내려놓고 찾아보는 관찰 빙고",
+    "category": "Productivity",
+    "package_name": "com.offsong.today_discovery",
+    "image": "https://play-lh.googleusercontent.com/A5dbdXL4RT-cjEzuAKhEAymyGLiTdQVH8YnmqK3CeKEOarcRd2zYsWeJsE1CfekCpz2ADMezI5U4MsuQwbVoQko=w480-h960-rw"
   },
    {
     "eng": "Clap Finder: Find My Phone",
