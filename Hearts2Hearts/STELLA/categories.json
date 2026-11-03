@@ -1,0 +1,16 @@
+[
+	{
+	    "name": "STELLA",
+	    "name_kor": "스텔라",
+	    "preview1": "https://i.pinimg.com/736x/80/cc/73/80cc73f93cb81ac111803bb71a351dde.jpg",
+	    "preview2": "https://i.pinimg.com/736x/df/e6/ac/dfe6ac260607ae8dd1560ed1e6aa5f82.jpg",
+	    "preview3": "https://i.pinimg.com/736x/71/ed/d5/71edd5405c2a7001fad070d98cac365a.jpg"
+	  },
+  	{
+  	    "name": "icon",
+  	    "name_kor": "아이콘",
+	    "preview1": "https://i.pinimg.com/1200x/c0/a3/00/c0a300c2792d4f8694b0422d75e00de6.jpg",
+	    "preview2": "https://i.pinimg.com/736x/1b/ce/32/1bce32cfe50d24d2e3653917def7e669.jpg",
+	    "preview3": "https://i.pinimg.com/736x/f6/90/e4/f690e4f54facf0cd54390f48b1b44d77.jpg"
+  	  }
+]
