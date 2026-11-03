@@ -2,8 +2,15 @@
   {
     "name": "CUTE DOLL",
     "name_kor": "귀여운 인형 배경화면",
-    "preview1": "https://i.pinimg.com/736x/4a/c9/ea/4ac9ea35a78853f311dfe9ef44e70f8e.jpg",
-    "preview2": "https://i.pinimg.com/736x/34/58/98/345898373f2b1dde2fa89cab471c226f.jpg",
-    "preview3": "https://i.pinimg.com/736x/21/b5/54/21b55422223c9b998d31891ffc6f7358.jpg"
+    "preview1": "https://i.pinimg.com/474x/4a/c9/ea/4ac9ea35a78853f311dfe9ef44e70f8e.jpg",
+    "preview2": "https://i.pinimg.com/474x/34/58/98/345898373f2b1dde2fa89cab471c226f.jpg",
+    "preview3": "https://i.pinimg.com/474x/21/b5/54/21b55422223c9b998d31891ffc6f7358.jpg"
+  },
+  {
+    "name": "icon",
+    "name_kor": "아이콘",
+    "preview1": "https://i.pinimg.com/474x/bc/b1/38/bcb1389a22a0ee287b9cdd923c5d1654.jpg",
+    "preview2": "https://i.pinimg.com/474x/24/f0/2b/24f02bfca6350719084923323c6f845e.jpg",
+    "preview3": "https://i.pinimg.com/474x/e5/67/48/e567486b6041c743ddba34083134205b.jpg"
   }
 ]
