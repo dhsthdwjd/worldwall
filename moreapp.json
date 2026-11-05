@@ -242,10 +242,17 @@
   },
   {
     "eng": "IAN (H2H) HD Wallpaper",
-    "kor": "하츠투하츠 이안",
+    "kor": "하츠투하츠 이안 고화질 배경화면",
     "category": "Girl Group",
     "package_name": "com.offsong.themetodo6",
     "image": "https://play-lh.googleusercontent.com/l5iTH-t40as3M26z-fDaZ1CR3DDrDUEfJk9PIWjuOXQ8cO2RIVil-ZBU8s21weeVBgbcNKggp9g9YKzdt7y_2A=w240-h480"
+  },
+  {
+    "eng": "JIWOO (H2H) HD Wallpaper",
+    "kor": "하츠투하츠 지우 고화질 배경화면",
+    "category": "Girl Group",
+    "package_name": "com.offsong.gifs_enhypen",
+    "image": "https://play-lh.googleusercontent.com/Ob8_FiyGe5xMKrH9Wq2jVWJUZcdw1uAD_9KlIt9L2D-gPvjDNIJTTrakgIfkaYw6rgj8vloaI8PxafdrHe4S5q0=w480-h960-rw"
   },
   {
     "eng": "ILLIT HD Wallpaper",
@@ -761,13 +768,7 @@
     "package_name": "com.offsong.nmixx_wallpaper",
     "image": "https://play-lh.googleusercontent.com/gKUWiQV6h7cQUF3E8jVEaQ4u31yUbSFHA8y2SRDzr68yiIEkg0k8HSPqn78AgmAwgnq8a3zyCU3ncNRUJovkig=w240-h480"
   },
-  {
-    "eng": "BAE (NMIXX) HD Wallpaper",
-    "kor": "배이 (엔믹스) 고화질 배경화면 & 잠금화면",
-    "category": "Girl Group",
-    "package_name": "com.offsong.gifs_enhypen",
-    "image": "https://play-lh.googleusercontent.com/H6NHqvWtOO1XU9WgXJTzM3y6NTa7B6V21u86_OB6Hw_apResS-dnWumy6Ie7qqVzsClBCT4OdCmFvC7499wBxQ=w240-h480"
-  },
+ 
   {
     "eng": "SULLYOON (NMIXX) HD Wallpaper",
     "kor": "설윤 (엔믹스) 고화질 배경화면",
