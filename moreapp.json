@@ -572,13 +572,6 @@
     "image": "https://play-lh.googleusercontent.com/0WgyF3wbOcp4matSRaw1ASCAboYQprvYt4J8JCiv7Sj_WzbKLhIEJOrPfx5lZNcz-Eg_=w240-h480"
   },
   {
-    "eng": "CHAEYOUNG (TWICE) HD Wallpaper",
-    "kor": "채영 (트와이스) 고화질 배경화면 & 잠금화면",
-    "category": "Girl Group",
-    "package_name": "com.offsong.jeonsomi_wallpaper",
-    "image": "https://play-lh.googleusercontent.com/L5_TVDdN-K9kvTIgdlx89yVOYeAcVBxlCv8WR_QgMxODlsvW6wgZo33VdgXT6o9W198=w240-h480"
-  },
-  {
     "eng": "MINA (TWICE) HD Wallpaper",
     "kor": "미나 (트와이스) 고화질 배경화면 & 잠금화면",
     "category": "Girl Group",
@@ -954,6 +947,13 @@
     "category": "Boy Group",
     "package_name": "com.offsong.Eunoia_wisdom",
     "image": "https://play-lh.googleusercontent.com/L6GT5NgPORpoRAhk6Oadb0NWLWXkV9S3aReYXIq7889AqsBercEQqeKJzOjtM9_VbnU=w240-h480"
+  },
+  {
+    "eng": "ALPHA DRIVE ONE HD Wallpaper",
+    "kor": "알파드라이브원 고화질 배경화면 & 잠금화면",
+    "category": "Boy Group",
+    "package_name": "com.offsong.jeonsomi_wallpaper",
+    "image": "https://play-lh.googleusercontent.com/HYWEPWwNnGBDWcw8IXMNj71ELSm7E8839ZecPeyefixBb0VkmmSnY5pcwIYgqiZXwhN2-SxH_qBDKFgW02OZEw=w480-h960-rw"
   },
 
   {
