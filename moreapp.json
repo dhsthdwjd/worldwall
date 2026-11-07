@@ -1,4 +1,18 @@
 [
+    {
+      "eng": "Kpop Artists HD Wallpaper",
+      "kor": "케이팝 아티스트 고화질 배경화면",
+      "category": "Girl Group",
+      "package_name": "com.offsong.exo_wallpaper",
+      "image": "https://play-lh.googleusercontent.com/7wsXbU4Tvi_FtAIJOAjvE9qevG9S6771WZ6NfHOk6w5zgoJeKmgh2qRZxgPYS11bbdVG19nJjKdjiO6BsY_W=w480-h960-rw"
+    },
+    {
+      "eng": "Kpop Artists HD Wallpaper",
+      "kor": "케이팝 아티스트 고화질 배경화면",
+      "category": "Boy Group",
+      "package_name": "com.offsong.exo_wallpaper",
+      "image": "https://play-lh.googleusercontent.com/7wsXbU4Tvi_FtAIJOAjvE9qevG9S6771WZ6NfHOk6w5zgoJeKmgh2qRZxgPYS11bbdVG19nJjKdjiO6BsY_W=w480-h960-rw"
+    },
    {
     "eng": "Stray Kids (SKZ) HD Wallpaper",
     "kor": "스트레이 키즈 고화질 배경화면 & 잠금화면",
@@ -341,6 +355,20 @@
     "image": "https://play-lh.googleusercontent.com/n4XUikRsnwKxPXrUcyKtvpIWKnhYcLDsxa3EYHi0LdYGMZjKlXZFDnGax1fk4g313iYS27OtBeElg-CBDv5KUQ=w480-h960-rw"
   },
   
+  {
+    "eng": "ALLDAY PROJECT HD Wallpaper",
+    "kor": "올데이 프로젝트 고화질 배경화면",
+    "category": "Girl Group",
+    "package_name": "com.offsong.videogame_wallpaper",
+    "image": "https://play-lh.googleusercontent.com/BQTOGkSxNeRUVyfrVzDCl24foHgoR8DkP9b4nm61bnhJK4osxwStJ_-x_7tsuA3915zt3A0x2iMloXwEtXJZ_Q=w240-h480"
+  },
+  {
+    "eng": "ALLDAY PROJECT HD Wallpaper",
+    "kor": "올데이 프로젝트 고화질 배경화면",
+    "category": "Boy Group",
+    "package_name": "com.offsong.videogame_wallpaper",
+    "image": "https://play-lh.googleusercontent.com/BQTOGkSxNeRUVyfrVzDCl24foHgoR8DkP9b4nm61bnhJK4osxwStJ_-x_7tsuA3915zt3A0x2iMloXwEtXJZ_Q=w240-h480"
+  },
 
   {
     "eng": "IVE HD Wallpaper",
@@ -683,13 +711,7 @@
     "package_name": "com.offsong.Hezkiah",
     "image": "https://play-lh.googleusercontent.com/MuDknhPQVBSICFlk0dv_cGS-Blw94i7yuwnr2I-RYgbmZ7nzaV6QwHlJJelrS9se-Q=w240-h480"
   },
-  {
-    "eng": "HUH YUNJIN HD Wallpaper",
-    "kor": "허윤진 (르세라핌) 고화질 배경화면",
-    "category": "Girl Group",
-    "package_name": "com.offsong.exo_wallpaper",
-    "image": "https://play-lh.googleusercontent.com/L_I4YjR64IwCxMuZM-Fod3_6sbJlwhrMHxdLQeEv370s7ptFF0cv5d5A_r7hVnoG6A=w240-h480"
-  },
+
   {
     "eng": "NewJeans HD Wallpaper",
     "kor": "뉴진스 (NewJeans) 고화질 배경화면",
@@ -790,13 +812,7 @@
     "package_name": "com.offsong.Eunoia_experience",
     "image": "https://play-lh.googleusercontent.com/DKIaPCEjecvdIOpFj4l55z-8j-C2kmS4bBdiJA0UqKnO4C-kJ5Yr-kRXokSrLElju1Cy=w240-h480"
   },
-  {
-    "eng": "KYUJIN (NMIXX) HD Wallpaper",
-    "kor": "규진 (엔믹스) 고화질 배경화면",
-    "category": "Girl Group",
-    "package_name": "com.offsong.Eunoia_chance",
-    "image": "https://play-lh.googleusercontent.com/5M1TEZXPq8V_bLxroKWZ3AjfrM-JfaDM1kUuaTSlvjNgKGKq3kK6_dUVlYJCcIDPeYI=w240-h480"
-  },
+ 
   {
     "eng": "ITZY HD Wallpaper",
     "kor": "있지 고화질 배경화면 & 잠금화면",
@@ -1163,17 +1179,17 @@
     "image": "https://play-lh.googleusercontent.com/xpzEV6Uhlft4j9nFhfg7crBe5ygMZirB5rdyU4bfVCB3aaefuc58awSGgixcS_KBYgIWPV4ZxNy_VsXZhYZU=w480-h960-rw"
   },
   {
-    "eng": "ALLDAY PROJECT HD Wallpaper",
-    "kor": "올데이 프로젝트 고화질 배경화면",
+    "eng": "CUTE DOLL HD Wallpaper",
+    "kor": "귀여운 인형 고화질 배경화면",
     "category": "Etc",
-    "package_name": "com.offsong.videogame_wallpaper",
-    "image": "https://play-lh.googleusercontent.com/BQTOGkSxNeRUVyfrVzDCl24foHgoR8DkP9b4nm61bnhJK4osxwStJ_-x_7tsuA3915zt3A0x2iMloXwEtXJZ_Q=w240-h480"
+    "package_name": "com.offsong.Eunoia_chance",
+    "image": "https://play-lh.googleusercontent.com/06nsW-ne41inJmTigloc9x-ppc45b7UX9ZrG1yCY4MqqovuGCLPzgSE0Co3DBka_N4SXLWMjXN3bdc5-IlotKw=w480-h960-rw"
   },
+ 
   {
     "eng": "Sensibility HD Wallpaper",
     "kor": "갬성공장 고화질 배경화면",
     "category": "Etc",
-    "rating": 4.2,
     "package_name": "com.offsong.gamsungfactory",
     "image": "https://play-lh.googleusercontent.com/OajJGqdatwWleQYbBiwhsA-lE63VkosaSI5qXbw3nvwpIcffoXcED0zZ-CBMi9b3N7Zj=w240-h480"
   },
