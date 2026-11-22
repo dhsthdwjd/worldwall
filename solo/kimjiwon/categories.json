@@ -5,5 +5,12 @@
 			    "preview1": "https://i.pinimg.com/474x/b2/7e/ad/b27ead0fd9667bb8192b49e9aa98837e.jpg",
 			    "preview2": "https://i.pinimg.com/474x/cc/5a/7b/cc5a7ba6f473357ed66bbfdbe7cef001.jpg",
 			    "preview3": "https://i.pinimg.com/474x/2a/34/d6/2a34d6b17479edf6d320a109bc2446a3.jpg"
-		}
+		},
+		{
+				    "name": "icon",
+				    "name_kor": "아이콘",
+				    "preview1": "https://i.pinimg.com/474x/55/7c/7c/557c7c88c476c21cd4da5e3938082c61.jpg",
+				    "preview2": "https://i.pinimg.com/474x/96/58/12/965812c890ae30bb1278de9a04f04f95.jpg",
+				    "preview3": "https://i.pinimg.com/474x/0e/98/53/0e985388dd4b2c4f3dff672ce623d0e5.jpg"
+			}
 ]
